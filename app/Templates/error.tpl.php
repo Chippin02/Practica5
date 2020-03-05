@@ -1,0 +1,1 @@
+<p id="error"><?php echo $error; ?></p>

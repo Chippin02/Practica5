@@ -1,0 +1,16 @@
+{
+  "name": "M07Practica5",
+  "description": "Mi proyecto de M07",
+  "type": "project",
+  "autoload": {
+    "psr-4": {
+      "P\\": "app/"
+    }
+  },
+  "require": {
+    "php": "^7.0",
+    "ext-pdo": "*",
+    "ext-json": "*",
+    "illuminate/database": "^6.12"
+  }
+}

@@ -4,7 +4,8 @@
 namespace P;
 
 
-interface View
-{
+interface View {
+
+    public function render(Array $dataview, string $template);
 
 }
